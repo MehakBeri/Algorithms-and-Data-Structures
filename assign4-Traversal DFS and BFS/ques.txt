@@ -1,0 +1,6 @@
+assignment-4
+a.  write a program to do dfs traversal on a graph.
+
+b.  write a program to do bfs traversal on a graph.
+
+the graph must have 10 nodes and 15 edges.

@@ -1,0 +1,2 @@
+write a program to find MST for a graph. Use Kruskal's algorithm.
+The graph must have 10 nodes and 15 edges.

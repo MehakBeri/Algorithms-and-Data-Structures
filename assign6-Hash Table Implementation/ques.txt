@@ -1,0 +1,36 @@
+Implement Hash table.
+
+Pick 20 random words.  Each word must be of different lengths, maximum length 8 and minimum length 3.
+
+The words will be of letters a-zA-Z0-9 and the space character.
+
+Insert them into a hash table.  The hashing algorithm uses ASCII table values for each character and adds up the values. Initially the table size is 31.  The program should increase the table size and rehash.
+
+The collision resolution is done using quadratic probing.
+
+At the end print the total number of collisions you get.
+
+
+Dallas:6
+Computer:8
+USA:3
+Dept2: 5
+Tom Hill: 8
+
+1984:4
+car POOL: 8
+A bat: 5
+20 Cats:7
+happy: 5
+
+Houses:6
+ChickPea: 8
+ate: 3
+c2c: 3
+book: 4
+
+A rope: 6
+35 jobs:7
+friends:7
+PeterPan:8
+Program:7
